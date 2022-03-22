@@ -1,6 +1,6 @@
 ---
 # defaults file for argo
-argo_ver: 3.2.8
+argo_ver: 3.3.1
 argo_mirror: https://github.com/argoproj/argo-workflows/releases/download
 argo_os: linux
 argo_arch: amd64
